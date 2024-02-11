@@ -1,15 +1,17 @@
 # Getting Started with Create React App
 
+Crie seu .env a partir do .env.exemple
+
 Você pode rodar o projeto via
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Seu aplicativo irá rodar na url [http://localhost:3000](http://localhost:3000).
 
 ou também via Docker-composer
 
 ### `docker-composer up -d`
 
+## Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### [Jusan Magno](https://www.linkedin.com/in/jusanmagno/)
